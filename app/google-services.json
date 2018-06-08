@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "857842227686",
+    "firebase_url": "https://pushnoti-facb0.firebaseio.com",
+    "project_id": "pushnoti-facb0",
+    "storage_bucket": "pushnoti-facb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857842227686:android:c044f25b9798d616",
+        "android_client_info": {
+          "package_name": "com.example.user.pushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857842227686-b5u9b71haj0pjnignrak6nhgmgckbcir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.pushnoti",
+            "certificate_hash": "cb7f5a12215521c377b17356ff0606751bd70566"
+          }
+        },
+        {
+          "client_id": "857842227686-6v2u733l3mmplsn6lp8m2v54dfqoat6u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "857842227686-6v2u733l3mmplsn6lp8m2v54dfqoat6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFzpj9oJAHPVZCGTS4sUTW-ZUvo_v5ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857842227686-6v2u733l3mmplsn6lp8m2v54dfqoat6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
